@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.footer-container {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  margin-top: 20px;
+}
+.footer-container,
+.footer-socials {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-socials > p {
+  padding: 0px 5px 0px 0px;
+}

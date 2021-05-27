@@ -1,0 +1,35 @@
+.nav-container {
+  margin-bottom: 20px;
+}
+
+.nav-container,
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 300;
+}
+
+.nav-items > h5 {
+  padding: 0px 5px;
+}
+
+.nav-buttons > button {
+  outline: none;
+  border: none;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.nav-buttons > button:first-child {
+  margin-right: 10px;
+  background-color: inherit;
+  color: #010201;
+}
+
+.nav-buttons > button:last-child {
+  border-radius: 15px;
+  padding: 5px 15px;
+  background-color: #010201;
+  color: #d5d5d5;
+}

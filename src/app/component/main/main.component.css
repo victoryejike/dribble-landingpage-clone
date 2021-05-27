@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.main-container {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-text-container > div {
+  margin: 15px 0px;
+  width: 75%;
+}
+
+.main-text-container > p:first-child,
+.hero-text > p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.main-cta > span {
+  border-bottom: 2px solid currentColor;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 70px;
+  color: #010201;
+}
+
+.hero-text > p {
+  padding-top: 20px;
+}
