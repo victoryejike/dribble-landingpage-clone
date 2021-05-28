@@ -3,7 +3,7 @@
   margin-top: 140px;
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .main-text-container > div {
@@ -25,6 +25,10 @@ h1 {
   font-size: 60px;
   line-height: 70px;
   color: #010201;
+}
+
+h2 {
+  font-size: 46px;
 }
 
 .hero-text > p {

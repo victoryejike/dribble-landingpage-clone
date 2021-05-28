@@ -33,3 +33,10 @@
   background-color: #010201;
   color: #d5d5d5;
 }
+
+.avatar {
+  width: 25px;
+  height: 30px;
+  background-color: #010201;
+  border-radius: 0 100px 100px 0;
+}
