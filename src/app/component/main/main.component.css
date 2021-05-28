@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 .main-container {
-  margin-top: 100px;
+  margin-top: 140px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .main-text-container > div {
@@ -17,7 +17,7 @@
   font-weight: 500;
 }
 
-.main-cta > span {
+.learn-more {
   border-bottom: 2px solid currentColor;
 }
 
